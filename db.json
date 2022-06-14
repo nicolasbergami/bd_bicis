@@ -1,0 +1,50 @@
+
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_paterno": "Garza",
+            "apellido_materno": "Panelli",
+            "nombre": "Leandro",
+            "username": "lgp",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+            
+        },
+        {
+            "id":2,
+            "apellido_paterno": "Perez",
+            "apellido_materno": "Garcia",
+            "nombre": "Juan",
+            "username": "jpg",
+            "password": "01cfcd4f6b8770febfb40cb906715822"
+        }
+    ],
+
+    "productos":[
+        {
+            "id":1,
+            "nombre": "XR50 VAIRO 2022",
+            "marca": "vairo",
+            "modelo": "2015",
+            "precio": "70000",
+            "img": "https://www.sanferbike.com/videostv/wp-content/uploads/2020/10/Orbea-LAUFEY-H30-2021-600x400-1.jpg"
+        },
+        {
+            "id":2,
+            "nombre": "XZ90 2022 20' PREMIUM",
+            "marca": "umbro",
+            "modelo": "2022",
+            "precio": "95000",
+            "img": "https://www.sanferbike.com/videostv/wp-content/uploads/2020/05/Orbea-Gain-F30.jpg"
+        },
+        {
+            "id":3,
+            "nombre": "RAPTOR 2022 20' CHAMP EDITION",
+            "marca": "umbro",
+            "modelo": "2022",
+            "precio": "100000",
+            "img":"https://www.sanferbike.com/videostv/wp-content/uploads/2020/05/Orbea-Carpe-20.jpg"
+        }
+
+    ]
+}
